@@ -10,4 +10,9 @@ Proyecto final de la materia Desarrollo de Aplicaciones Web 2025.
 
 <hr>
 
+## Navegación entre entregas
+
+- [Entrega 1](../Entrega-1/)
+- [Entrega 2](../Entrega-2/)
+- [Entrega 3](../Entrega-3/)
 
