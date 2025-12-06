@@ -1,3 +1,6 @@
+> [!NOTE]
+> Este repositorio es un mirror de la rama del repositorio https://github.com/iKinoo/Kiin/tree/DAW-VH-2025, el proyecto original.
+
 # Kiin - DAW2025 Edition
 
 
